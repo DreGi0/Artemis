@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="Artemis/Artemis.vcxproj" Id="1e61d70c-695f-49d7-9224-8d6773e74ab2" />
+  <Project Path="Sandbox/Sandbox.vcxproj" Id="a0827b1b-4966-4aad-b97b-92df2faa52af" />
+</Solution>
